@@ -1,1 +1,4 @@
 The contents in this folder contain the deliverables for CIS2348 Homework 02.
+While the ZyLabs py files should contain almost 0 errors, I was unable to fully complete Coding Problem 2.
+
+Running Coding Problem 2 demonstrates that the program is able to exit successfully, however it is unable to output anything, even with the requested format.
